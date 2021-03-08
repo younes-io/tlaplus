@@ -1,1 +1,1 @@
-# tlaplus
+# Specifications in TLA+
